@@ -1,0 +1,20 @@
+{
+  "name": "apollo-server",
+  "description": "",
+  "dependencies": {
+    "apollo-server": "2.11.0",
+    "esm": "3.2.25",
+    "graphql": "14.6.0",
+    "graphql-tag": "^2.10.1"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/graphql": "14.0.1",
+    "nodemon": "1.18.4"
+  }
+}
